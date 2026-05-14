@@ -28,4 +28,8 @@ This repository contains the source code for the **Movonix Solutions** website. 
 
 1. **Clone the repository:**
    ```bash
+<<<<<<< HEAD
    git clone [https://github.com/Alikhandev-pk/movonix-solutions.git](https://github.com/Alikhandev-pk/movonix-solutions.git)
+=======
+   git clone [https://github.com/Alikhandev-pk/movonix-solutions.git](https://github.com/Alikhandev-pk/movonix-solutions.git)
+>>>>>>> 2f322533c9b5c16add5763c31de8ff547bce2ccd
